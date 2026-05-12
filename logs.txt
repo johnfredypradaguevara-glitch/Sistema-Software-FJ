@@ -1,0 +1,6 @@
+2026-05-12 10:29:24,976 - ERROR - El correo electrónico es inválido.
+2026-05-12 10:29:24,977 - ERROR - Error al confirmar la reserva.
+2026-05-12 10:29:24,978 - ERROR - Error al confirmar la reserva.
+2026-05-12 10:54:29,339 - ERROR - El correo electrónico es inválido.
+2026-05-12 10:54:29,345 - ERROR - Error al confirmar la reserva.
+2026-05-12 10:54:29,347 - ERROR - Error al confirmar la reserva.
